@@ -1,0 +1,11 @@
+{
+  "name": "customer-health-score",
+  "version": "1.0.0",
+  "description": "Weighted multi-factor retention engine that scores account viability across usage, support sentiment, invoice promptness, and sponsor engagement with full audit explainability.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "author": "Gideon Bawa <bawagideon98@gmail.com>",
+  "license": "MIT"
+}
